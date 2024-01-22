@@ -1,0 +1,16 @@
+{
+  "name": "e-profile",
+  "version": "1.0.0",
+  "description": "Welcome to my digital space! 🚀 This website is my super cool digital resume, showing off all the fantastic stuff about me in one place. Explore my skills, projects, and experiences to see why I'm the perfect fit for your team. Let's make the professional connection happen! 🌟",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
